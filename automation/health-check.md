@@ -74,6 +74,14 @@ Daily report format:
 ```
 CONSTELLATION HEALTH — 2026-02-11
 
+CHANNELS (checked 2026-02-11 10:53):
+  [OK] iMessage    — RESTORED (was down, watchdog wasn't monitoring)
+  [OK] Discord     — healthy, session resumed, posting outbox
+  [OK] Telegram    — healthy, polling every 10s
+  [OK] Signal      — running, listening on +13479427119
+  [⚠️] WhatsApp    — process running, needs public webhook URL
+  [OK] Constellation API — port 5050, responding
+
 PORTALS:
   [OK] reemifai.org       (uptime: 99.8%)
   [OK] cinevault.app      (uptime: 99.5%)
@@ -81,30 +89,32 @@ PORTALS:
   [--] honeydew.reemifai.org (not yet deployed)
   [--] study.reemifai.org (not yet deployed)
 
-AGENTS:
-  [OK] Signal     (last interaction: 2h ago)
-  [OK] Telegram   (last interaction: 4h ago)
-  [OK] Discord    (last interaction: 1h ago)
-
 INFRASTRUCTURE:
-  [OK] Constellation API
-  [OK] Mycelium
-  [OK] Watchdog
+  [OK] Watchdog daemon — now monitors 8 transports (iMessage added)
+  [OK] Mycelium (Supabase) — connected, depositing pheromones
+  [OK] Honeydew Loop — captain + crew running
+  [OK] Dreamland — processing
+
+BUGS FIXED (2026-02-11):
+  [✓] iMessage added to watchdog TRANSPORTS — will auto-restart
+  [✓] user_id undefined in exhale() — was crashing reddit_hunter
+      (constellation.py: now reads from _breath_user_id global)
 
 REPOS:
   core:          2,426 docs  (updated today)
   framework:       420 docs  (LOCKED — sacred number held)
-  system:           30 docs  (updated today)
-  relationships:    31 docs  (updated Feb 11)
-  body:             15 docs  (updated Feb 11)
-  ai:               16 docs  (updated today)
+  system:           33 docs  (updated Feb 11)
+  relationships:    32 docs  (updated Feb 11)
+  body:             16 docs  (updated Feb 11)
+  ai:               16 docs  (updated Feb 11)
+  constellation:    27 docs  (created Feb 11)
   basketball:       13 docs
   chess:            15 docs
   music:            14 docs
   cooking:           1 doc   (⚠️ THIN — needs content)
 
 CROSS-POLLINATION:
-  3 stale references detected.
+  Manifest files deployed to all 10 repos.
   See cross-pollinate report for details.
 ```
 
