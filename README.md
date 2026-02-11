@@ -6,6 +6,27 @@
 
 ---
 
+## Position in CHIMERA
+
+```
+~/chimera/
+├── nucleus/        (system + framework — DNA)
+├── guts/           (body + math + language — translation)
+├── domains/
+│   ├── relationships/
+│   ├── basketball/
+│   ├── chess/
+│   ├── music/
+│   ├── cooking/
+│   ├── ai/
+│   └── crypto/
+├── infrastructure/
+│   └── constellation/  ← YOU ARE HERE
+└── raw/            (core — unprocessed)
+```
+
+---
+
 ## What This Is
 
 The Constellation is the deployment layer of CHIMERA. Everything above it — system axioms, framework DNA, domain repos, core dark energy — is the MIND. The Constellation is how that mind SPEAKS.
