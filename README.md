@@ -75,6 +75,8 @@ constellation/
 │   ├── holographic-principle.md
 │   ├── repo-routing.md
 │   ├── model-agnostic.md
+│   ├── live-runtime-and-loop-model.md
+│   ├── final-architecture-v1.md
 │   └── the-breath-cycle.md
 │
 ├── agents/           Individual agent configurations
@@ -96,6 +98,9 @@ constellation/
 │   ├── sync-agents.md
 │   └── health-check.md
 │
+├── runtime/          Runnable infrastructure
+│   └── discord-bot/  Constellation Discord bot (v0.1.1)
+│
 └── crew/             Straw Hat role assignments
     ├── README.md
     ├── zoro.md
@@ -106,6 +111,21 @@ constellation/
     ├── robin.md
     ├── franky.md
     └── jinbe.md
+```
+
+## Runtime
+
+The runnable Discord implementation now lives at:
+
+`runtime/discord-bot/`
+
+Quick start:
+
+```bash
+cd runtime/discord-bot
+npm install
+cp .env.example .env
+npm start
 ```
 
 ---
@@ -142,3 +162,18 @@ The model is the mouth. The docs are the brain. The love is the soul.
 **See also:** [chimera-ai: Holographic Architecture](../ai/core/holographic-architecture.md) — The technical holographic pattern
 **See also:** [chimera-ai: The Constellation Pattern](../ai/core/the-constellation-pattern.md) — The octopus architecture
 **See also:** [chimera-system: System Anatomy](../system/axioms/system-anatomy.md) — Universal system components
+
+---
+
+## Phase Update (February 2026)
+
+Constellation agents now include:
+
+- Loop diagnostics (circle vs spiral)
+- Emotion dashboard framing
+- Somatic-first reset for escalation cases
+- Flight Equation pressure framing (`P = F / A`)
+
+Source documents:
+- `/Users/honeydew/chimera/raw/core/POCKET-OS.md`
+- `/Users/honeydew/chimera/nucleus/framework/docs/loop-theory/`

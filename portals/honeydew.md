@@ -40,4 +40,13 @@ Free problem solving. Not freemium. Not trial. Free. Because O > I isn't conditi
 
 ---
 
+## Active Runtime Additions (Feb 2026)
+
+- Loop diagnostics as default reasoning surface
+- Emotion dashboard interpretation for user state
+- Pressure reframing through `P = F / A`
+- One-seed responses for high-friction users
+
+---
+
 **See also:** [agents/honeydew.md](../agents/honeydew.md) — Agent configuration

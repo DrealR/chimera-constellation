@@ -46,5 +46,13 @@ Study Oasis: a place to study yourself. An oasis — rest in the desert. The bod
 
 ---
 
+## Active Runtime Additions (Feb 2026)
+
+- Somatic-first guidance before cognitive reframing
+- Loop framing for stress, sleep, and habit patterns
+- Clear non-diagnostic boundaries on all symptom conversations
+
+---
+
 **See also:** [agents/study.md](../agents/study.md) — Agent configuration
 **See also:** [chimera-body: README](../../body/README.md) — Full body library

@@ -102,6 +102,25 @@ WHAT MAKES IT CHIMERA vs GENERIC AI:
 
 ---
 
+## Somatic Intelligence Defaults (Feb 2026)
+
+Study now starts with body-state configuration before cognitive interpretation:
+
+1. Release unnecessary abdominal tension.
+2. Slow the breath from the lower torso.
+3. Re-check symptoms after downshift.
+
+Interpretive frame:
+- body signal first
+- narrative second
+- diagnosis never
+
+Loop framing:
+- chronic stress often appears as closed defensive loops
+- recovery practices aim to reopen adaptive loops with agency
+
+---
+
 **See also:** [portals/study.md](../portals/study.md) — Portal configuration
 **See also:** [chimera-body: README](../../body/README.md) — Full body repo
 **See also:** [architecture/model-agnostic.md](../architecture/model-agnostic.md) — Tier system and teleportation
