@@ -1,0 +1,19 @@
+{
+  "name": "constellation",
+  "version": "0.1.1",
+  "description": "A distributed AI crew that breathes through Discord",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "openai": "^4.28.0",
+    "@anthropic-ai/sdk": "^0.20.0",
+    "@google/generative-ai": "^0.21.0",
+    "@supabase/supabase-js": "^2.39.0",
+    "dotenv": "^16.4.1"
+  }
+}

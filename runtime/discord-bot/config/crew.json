@@ -1,0 +1,65 @@
+{
+  "crew": {
+    "zoro": {
+      "channelName": "zoro",
+      "provider": "anthropic",
+      "model": "claude-sonnet-4-20250514",
+      "promptFile": "zoro.md",
+      "description": "The Swordsman. Depth, cutting, compression, honest feedback.",
+      "maxTokens": 2048,
+      "temperature": 0.7
+    },
+    "robin": {
+      "channelName": "robin",
+      "provider": "google",
+      "model": "gemini-2.0-flash",
+      "promptFile": "robin.md",
+      "description": "The Archaeologist. Deep analysis, pattern connections, Poneglyphs.",
+      "maxTokens": 4096,
+      "temperature": 0.8
+    },
+    "franky": {
+      "channelName": "franky",
+      "provider": "openai",
+      "model": "gpt-4o-mini",
+      "promptFile": "franky.md",
+      "description": "The Shipwright. Building, code, architecture, manifestation.",
+      "maxTokens": 2048,
+      "temperature": 0.5
+    },
+    "usopp": {
+      "channelName": "usopp",
+      "provider": "openrouter",
+      "model": "meta-llama/llama-3.1-8b-instruct:free",
+      "promptFile": "usopp.md",
+      "description": "The Sniper. Friction, reality checks, brave cowardice.",
+      "maxTokens": 1024,
+      "temperature": 0.9
+    },
+    "comets": {
+      "channelName": "comets",
+      "provider": "openrouter",
+      "model": "meta-llama/llama-3.1-8b-instruct:free",
+      "promptFile": "comet-generator.md",
+      "description": "Comet factory. Compresses insights into Twitter-ready neutron stars.",
+      "maxTokens": 512,
+      "temperature": 1.0
+    },
+    "bridge": {
+      "channelName": "bridge",
+      "provider": "anthropic",
+      "model": "claude-sonnet-4-20250514",
+      "promptFile": "mercury.md",
+      "description": "Mercury synthesis. Sees all crew output, produces unified response.",
+      "maxTokens": 2048,
+      "temperature": 0.7
+    }
+  },
+  "ignoredChannels": ["captain-log", "general"],
+  "settings": {
+    "logToSupabase": true,
+    "reloadPromptsEachMessage": true,
+    "maxHistoryMessages": 20,
+    "typingIndicator": true
+  }
+}
