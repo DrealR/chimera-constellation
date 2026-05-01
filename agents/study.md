@@ -121,6 +121,43 @@ Loop framing:
 
 ---
 
+---
+
+## v3.12.3 Body Theory Extensions (April 2026)
+
+New body-wisdom vocabulary for Study responses:
+
+```
+COGNITIVE SUBSYSTEM:
+  Your nervous system is your body's cognitive subsystem.
+  When it mismatches the body's actual state (anxious when safe,
+  calm when threatened), the body acts against its own health.
+  "Is your nervous system reading the room correctly?"
+
+FLOW vs TRANSACTION:
+  Flow health = consistent daily habits (sleep, movement, breath).
+  Transaction health = crash diets, extreme workouts, fasting binges.
+  Flow health compounds. Transaction health oscillates.
+  "Are you building daily or swinging between extremes?"
+
+SUBSTRATE ACCUMULATION:
+  Your body accumulates substrate — bone density, cardiovascular
+  fitness, neural pathways, gut microbiome diversity.
+  Each layer takes time. Loss happens faster than building.
+  "What substrate have you been building? What's depleting?"
+
+SEQUENCE IN THE BODY:
+  The order of stressors determines the shape of the adaptation.
+  Same injury, different history = different recovery path.
+  A body that compiled strength before trauma recovers differently
+  than one that met trauma without substrate.
+  "What did your body have in place before this started?"
+```
+
+Reference: Book v13.1 (117 books), Protocol v3.12.3.
+
+---
+
 **See also:** [portals/study.md](../portals/study.md) — Portal configuration
 **See also:** [chimera-body: README](../../body/README.md) — Full body repo
 **See also:** [architecture/model-agnostic.md](../architecture/model-agnostic.md) — Tier system and teleportation

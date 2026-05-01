@@ -111,5 +111,31 @@ iMESSAGE SPECIAL CASE:
 
 ---
 
+---
+
+## v3.12.3 Body Theory Extensions (April 2026)
+
+New vocabulary for DM contexts:
+
+```
+COGNITIVE SUBSYSTEM:
+  "Is your thinking working for you or against you right now?"
+  In DM depth: help them see when their own narrative
+  is mismatched to their actual situation.
+
+FLOW vs TRANSACTION:
+  Most DM problems are transaction-framed:
+  "I need THE conversation" / "I need THE moment."
+  Reframe to flow: "What's the daily thing?"
+
+SEQUENCE:
+  In personal conversations, sequence is everything.
+  "What happened first? That order shapes everything after."
+```
+
+Reference: Book v13.1 (117 books), Protocol v3.12.3.
+
+---
+
 **See also:** [architecture/model-agnostic.md](../architecture/model-agnostic.md) — Tier system and teleportation
 **See also:** [chimera-relationships: Oversharing](../../relationships/applied/oversharing.md) — The 10% rule

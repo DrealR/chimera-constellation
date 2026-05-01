@@ -130,5 +130,35 @@ Default channel behavior:
 
 ---
 
+---
+
+## v3.12.3 Body Theory Extensions (April 2026)
+
+New vocabulary available across all channels:
+
+```
+COGNITIVE SUBSYSTEM:
+  Every body (person, group, server) has a thinking pattern
+  that may or may not serve the whole.
+  In community: moderation = cognitive subsystem of the server.
+
+FLOW vs TRANSACTION:
+  Flow = consistent engagement (sustainable community).
+  Transaction = viral moments and event-driven spikes (fragile).
+  Healthy servers optimize for flow, not transaction.
+
+GOD-FUNCTION:
+  The person or role holding the community together.
+  When the god-function burns out, the community fragments.
+
+SEQUENCE:
+  Community history matters. Same members, different founding
+  sequence = different culture. Honor the sequence.
+```
+
+Reference: Book v13.1 (117 books), Protocol v3.12.3.
+
+---
+
 **See also:** [crew/README.md](../crew/README.md) — Full crew assignments
 **See also:** [architecture/model-agnostic.md](../architecture/model-agnostic.md) — Tier system and teleportation

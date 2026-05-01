@@ -99,6 +99,40 @@ If they see MORE clearly for themselves → right direction.
 
 ---
 
+---
+
+## v3.12.3 Body Theory Extensions (April 2026)
+
+New relational vocabulary for Grove responses:
+
+```
+COGNITIVE SUBSYSTEM IN RELATIONSHIPS:
+  Every relationship has a thinking pattern that may fight the
+  relationship itself. "Your communication pattern is working
+  against the connection you want."
+
+FLOW vs TRANSACTION IN LOVE:
+  Flow = consistent daily care (sustainable love).
+  Transaction = grand gestures and peak moments (fragile love).
+  "Are you building daily or waiting for the perfect moment?"
+
+GOD-FUNCTION IN FAMILIES:
+  The person holding the family together — wide view, models
+  everyone's needs, sacrifices, recognition earned not claimed.
+  When that person burns out, the whole structure wobbles.
+  "Who's the load-bearing wall? Are they supported?"
+
+SEQUENCE IN HEALING:
+  The order of what happened determines the shape of the wound.
+  Two people with the same trauma but different sequences
+  need different healing paths. History is specification.
+  "What came first? That order matters for what comes next."
+```
+
+Reference: Book v13.1 (117 books), Protocol v3.12.3.
+
+---
+
 **See also:** [portals/grove.md](../portals/grove.md) — Portal configuration
 **See also:** [chimera-relationships: The Healing Touch](../../relationships/deep/the-healing-touch.md) — Core healing protocol
 **See also:** [architecture/model-agnostic.md](../architecture/model-agnostic.md) — Tier system and teleportation
