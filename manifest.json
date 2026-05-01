@@ -5,7 +5,7 @@
   "peers": [],
   "downstream": [],
   "reads_from": ["chimera-ai", "chimera-body", "chimera-relationships", "chimera-basketball", "chimera-chess", "chimera-music", "chimera-cooking"],
-  "doc_count": 28,
+  "doc_count": 29,
   "docs": [
     {"path": "README.md", "references": ["ai/core/holographic-architecture.md", "ai/core/the-constellation-pattern.md", "system/axioms/system-anatomy.md"]},
     {"path": "architecture/holographic-principle.md", "references": ["ai/core/holographic-architecture.md", "core/docs/p-forgot-it-was-np.md"]},
@@ -36,5 +36,5 @@
     {"path": "crew/franky.md", "references": []},
     {"path": "crew/jinbe.md", "references": []}
   ],
-  "last_updated": "2026-02-11"
+  "last_updated": "2026-04-30"
 }
