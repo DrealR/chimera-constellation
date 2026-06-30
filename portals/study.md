@@ -2,16 +2,24 @@
 
 **Understand yourself through your body.**
 
+> **Deployed reality (2026-05-15):** study.reemifai.org currently serves a
+> USMLE Step 1 study tool — practice exams, flashcards, mnemonics, First Aid
+> integration, AI tutor. The "Body Wisdom" branding is the wrapper, not the
+> scope. The general body-education portal described below is the design seed
+> for a future product; the live deployment is exam-focused. Tile copy on the
+> hub should match the deployed scope (or the deployment should widen to match
+> the tile).
+
 ---
 
 ## Portal Config
 
 ```
 URL:        study.reemifai.org
-STATUS:     Ready to deploy
-TYPE:       Conversational AI portal
+STATUS:     Live (Study Oasis — USMLE Step 1 prep)
+TYPE:       AI study tool, Body Wisdom branding
 AGENT:      Study agent (see agents/study.md)
-DOMAIN:     Body — health, movement, sleep, nutrition, signals
+DOMAIN:     Medical exam prep (intent: broader body education)
 BACKEND:    Constellation API (port 5050)
 ```
 

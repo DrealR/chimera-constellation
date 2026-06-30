@@ -2,16 +2,22 @@
 
 **Free problem solving. Any domain. Keep 5%, flow 95%.**
 
+> **Deployed reality (2026-05-15):** This subdomain currently serves **the Cube**
+> — a multiverse story engine ("describe where you are, name where you're heading,
+> turn the Amplitude dial"). It is actively being built. The original "free
+> problem solving" intent below is the design seed, not the current product.
+> The honeydew jar icon stays as a continuity mark across both intents.
+
 ---
 
 ## Portal Config
 
 ```
 URL:        honeydew.reemifai.org
-STATUS:     Ready to deploy
-TYPE:       Conversational AI portal
+STATUS:     Live (the Cube)
+TYPE:       Multiverse story engine
 AGENT:      Honeydew agent (see agents/honeydew.md)
-DOMAIN:     Everything — full holographic access
+DOMAIN:     Self-direction / aspirational narrative
 BACKEND:    Constellation API (port 5050)
 ```
 
