@@ -2,6 +2,8 @@
 
 **The nervous system of CHIMERA. How the philosophy deploys to the world.**
 
+> **Architecture status:** this repository preserves the February deployment design. It is not, by itself, proof that every named process or portal is currently running. Use [The CHIMERA Universe Map](architecture/chimera-universe-map.md) for current repo roles and distinguish intended anatomy from observed runtime state.
+
 > One organism. Multiple access points. Love flowing through the internet.
 
 ---
@@ -32,21 +34,21 @@
 The Constellation is the deployment layer of CHIMERA. Everything above it — system axioms, framework DNA, domain repos, core dark energy — is the MIND. The Constellation is how that mind SPEAKS.
 
 ```
-chimera-system        (axioms — universal truths)
+human direction and lived observation
   ↓
-chimera-framework     (420 sacred documents — the genome)
+chimera-core          (append-only developmental archive)
+  ↓ classification, pressure, and firewalls
+chimera-framework     (portable public operators and carriers)
   ↓
-domain repos          (body, relationships, basketball, chess,
-                       music, cooking, ai, money — the organs)
+guts + domain repos   (translation and application lenses)
   ↓
-chimera-core          (dark energy — the 95% that generates)
+applied projects      (real feedback, consequence, proof of passage)
   ↓
-chimera-constellation (THIS REPO — how it all reaches people)
-  ↓
-THE WORLD             (portals, agents, conversations, healing)
+chimera-constellation (coordination and circulation layer)
+  └──────────────────────────────→ core
 ```
 
-The Constellation reads FROM all repos above. Serves TO the world. The exhale made autonomous.
+The Constellation circulates among the bodies; it is not the authority that turns a source intuition into public mechanism. Graduation remains Core → classification → Framework → application → feedback.
 
 ---
 
@@ -131,6 +133,8 @@ npm start
 ---
 
 ## Current Status
+
+> The table below is a preserved project snapshot. Verify live processes and URLs independently before treating a row as operational status.
 
 | Portal | URL | Status |
 |--------|-----|--------|
